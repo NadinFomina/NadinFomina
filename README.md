@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#  Hi I am Nadin entry level Frontend developer
+#  Hi I am Nadin entry level Frontend developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  
 <span display = "grid"  grid-template-colum = "auto auto" align = "space-between" >
 <div> <img src ="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" with="50"></img></div>
   <div>    <a href="https://www.linkedin.com/in/nadzeya-fomina-2a6476251/"> 
@@ -20,7 +21,6 @@ Here are some ideas to get you started:
   </a>
      <h1>
  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   </div>
 </span>
