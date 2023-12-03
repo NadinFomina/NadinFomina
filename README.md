@@ -12,18 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div id="header" align = "center">
-  <img src ="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" with="50"></img>
-</div>
-<div id="badges">
-    <a href="https://www.linkedin.com/in/nadzeya-fomina-2a6476251/"> 
+<span>
+<div> <img src ="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" with="50"></img></div>
+  <div>    <a href="https://www.linkedin.com/in/nadzeya-fomina-2a6476251/"> 
  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
- </div>
-<!--  <img src="https://nadinFomina.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/> -->
- <h1>
+     <h1>
   Hi I am Nadin entry level Frontend developer
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+  </div>
+</span>
+
 
