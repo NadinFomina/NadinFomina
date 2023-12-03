@@ -12,14 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# hi
+#  Hi I am Nadin entry level Frontend developer
 <span display = "grid"  grid-template-colum = "auto auto" align = "space-between" >
 <div> <img src ="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" with="50"></img></div>
   <div>    <a href="https://www.linkedin.com/in/nadzeya-fomina-2a6476251/"> 
  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
      <h1>
-  Hi I am Nadin entry level Frontend developer
+ 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   </div>
