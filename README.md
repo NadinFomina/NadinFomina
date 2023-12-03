@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 -->
 #  Hi, I am Nadin entry level Frontend developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
- <span display = "grid"  grid-template-colum = "100px 100px" align = "space-between" > 
+ <span> 
  <img src ="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" with="50px" align = "right"></img>
-
- 
 </span>
 
   <a href="https://www.linkedin.com/in/nadzeya-fomina-2a6476251/"> 
