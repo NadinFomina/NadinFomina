@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#hi
+# hi
 <span display = "grid"  grid-template-colum = "auto auto" align = "space-between" >
 <div> <img src ="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" with="50"></img></div>
   <div>    <a href="https://www.linkedin.com/in/nadzeya-fomina-2a6476251/"> 
