@@ -26,4 +26,4 @@ Here are some ideas to get you started:
  You can ask me about
 </li>
 </ul>
-
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
