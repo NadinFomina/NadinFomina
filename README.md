@@ -18,9 +18,12 @@ Here are some ideas to get you started:
  <img src ="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" with="50px" align = "right"></img>
 </span>
 <ul>
- <li>  You can look at my  <a href="https://www.linkedin.com/in/nadzeya-fomina-2a6476251/"> 
+ <li> You can look at my  <a href="https://www.linkedin.com/in/nadzeya-fomina-2a6476251/"> 
  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>  </li>
-
+  </a>  
+ </li>
+<li font-size= "16" color = "green">
+ You can ask me about
+</li>
 </ul>
 
