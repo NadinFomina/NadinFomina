@@ -13,17 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #  Hi, I am Nadin entry level Frontend developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+- ### [You can look at my linkedin](https://www.linkedin.com/in/nadzeya-fomina-2a6476251/)
+<img src ="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" with="50px" align = "right"></img>
+- ### 💬 You can ask me about  **JS, React, HTML, CSS**
+- ### 🔭 **I’m currently looking for a job**
+- ### 🤝 I need help...
+- ### ⚡ Fun fact I was Head of Sales Department 😊
+- ### 😄 MY GENERAL SKILLS & ABILITIES:
+ 1. Possesses a positive, energetic and professional attitude
+ 2. Achieving goals, creative/strategic thinking and problem solving
+ 3. Demonstrated ability to work and perform at the highest standards in complex and demanding environments
+ 4. Excellent ethics, hardworking, focus minded and sound organizational ability
+ 5.Flexible to change with excellent planning and execution skills and works well within the constraints of tight deadlines
 
- <span> 
- <img src ="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" with="50px" align = "right"></img>
-</span>
-<ul>
- <li> You can look at my  <a href="https://www.linkedin.com/in/nadzeya-fomina-2a6476251/"> 
- <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>  
- </li>
-<li font-size= "16" color = "green">
- You can ask me about
-</li>
-</ul>
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
